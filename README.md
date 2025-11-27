@@ -184,9 +184,7 @@ restaurant-booking-agent/
 - None currently identified in core functionality
 - OpenAI calls fail sometimes, reloading or restarting the server solves it.
 
-## Productionization Roadmap
-
-### Immediate Improvements (Phase 1)
+## Improvements
 1. **Real APIs**
 2. **Data Persistence**
 3. **Authentication**
@@ -307,4 +305,5 @@ LANGFUSE_HOST=https://cloud.langfuse.com
 4. Debug extraction issues and conversation logic
 
 <img width="1451" height="726" alt="Screenshot 2025-11-28 at 1 37 00 AM" src="https://github.com/user-attachments/assets/bd3a76c7-d27d-447f-854f-ea777043ece8" />
+
 
