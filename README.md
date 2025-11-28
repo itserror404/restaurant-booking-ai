@@ -3,7 +3,7 @@
 AI conversational agent for restaurant reservations built with LangGraph and GPT-4o-mini.
 
 ## Demo
-Link: 
+Link: https://www.loom.com/share/d67470a249854d56926e1583853e1733 
 
 ## Table of Contents
 - [Overview](#overview)
@@ -331,5 +331,6 @@ Pydantic models with `with_structured_output()` ensure reliable data extraction.
 6. **User Experience**
 7. **Better Testing** 
 8. **Production Infrastructure**
+
 
 
