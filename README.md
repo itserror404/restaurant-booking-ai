@@ -193,6 +193,7 @@ Uses Pydantic models with `with_structured_output()` to enforce exact data struc
 - **Streamlit**: Web UI
 - **LangFuse**: Observability and tracing
 - **Python 3.9+**: Runtime
+- Used Claude Code as AI coding assistant 
 
 
 ## Project Structure
@@ -331,6 +332,7 @@ Pydantic models with `with_structured_output()` ensure reliable data extraction.
 6. **User Experience**
 7. **Better Testing** 
 8. **Production Infrastructure**
+
 
 
 
